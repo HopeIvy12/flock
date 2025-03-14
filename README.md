@@ -39,14 +39,18 @@ A responsive web app.
 Check out the user journey through [our prototype](https://www.figma.com/proto/9uZsjvMKX6z9Pf7KtNmscD/Flock?page-id=1%3A2&node-id=1-3&p=f&viewport=440%2C600%2C0.25&t=8ha3Zu2GxjHWY96g-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A3).
 
 ## 🐦 Deployed app
-[add link]
+[Flock](https://final-project-flock.vercel.app/)
 
 ## Planning
-[add FigJam link]
+[[FigJam link]](https://www.figma.com/board/PixCr1Uio3JMikGXVHCDZi/Final-Project?node-id=0-1&p=f&t=FcPLFl7ur5eRTBrC-0)
 
 
-## Demo day presentation
-[add presentation]
+- [@HopeIvy12](https://github.com/HopeIvy12) – Developer
+- [@Zsolt-qwerty](https://github.com/Zsolt-qwerty) – Developer
+- [@SarJHunt](https://github.com/SarJHunt) – Developer
+- [@CodingOdysseyOrginal](https://github.com/CodingOdysseyOrginal) – Developer
+- [@ccyoung22](https://github.com/ccyoung22) – Developer
+- [@DamonSeahash5](https://github.com/DamonSeahash5) – Developer
 
 
 
