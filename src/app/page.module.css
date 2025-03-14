@@ -1,0 +1,89 @@
+.pageContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  background-color: #f8f5f3;
+}
+
+.navLogoContainer {
+  display: flex;
+  height: 15vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.headerLogo {
+  margin-left: auto;
+  font-family: "J-Bold-Italic";
+  font-size: 2.8vh;
+}
+
+.flockText {
+  font-family: "N-ExtraBold";
+  font-size: 6.5vh;
+  margin-right: 20px;
+  padding-bottom: 10px;
+}
+
+.logoContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 30vw;
+  height: 10vh;
+  display: flex;
+}
+.searchBarContainer {
+  display: flex;
+  height: 15vh;
+  align-items: flex-start;
+  margin-top: 5vh;
+  justify-content: flex-end;
+  width: 70vw;
+}
+
+.textCardContainer {
+  display: grid;
+  grid-template-rows: 1fr 70vh; /* Bio text takes remaining space, hubDiv is fixed */
+  grid-template-columns: 1fr 3fr 1fr; /* Center column layout */
+  height: 90vh;
+}
+
+.bioText,
+.hubDiv {
+  grid-column: 2; /* Places both elements in the central column */
+  text-align: center;
+}
+
+.hubDiv {
+  height: 40vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 3.5vh;
+  row-gap: 2.5vh;
+  justify-content: center;
+  align-self: center;
+  margin-bottom: 7vh;
+}
+
+.bioText {
+  align-self: end; /* Pushes text to the bottom of its row */
+  text-align: center;
+  font-family: "N-Thin";
+  font-size: 2.8vh;
+}
+
+.homeButton {
+  width: 18vw;
+  height: 22vh;
+  border-radius: 4vh;
+  border-style: none;
+  background-color: #dfdfdf;
+  display: flex;
+  align-items: flex-end;
+  font-family: "N-Bold";
+  font-size: 5.5vh;
+  padding-left: 1.5vw;
+  padding-bottom: 1.4vh;
+}

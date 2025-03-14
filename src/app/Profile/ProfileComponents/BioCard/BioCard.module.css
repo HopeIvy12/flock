@@ -1,0 +1,22 @@
+.bioCardContainer {
+  background-color: white;
+  width: 50vw;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 40px;
+  height: 20vh;
+  overflow: hidden;
+  font-family: "N-light";
+  font-size: 2vh;
+  letter-spacing: 0.02rem;
+  line-height: 110%;
+  box-shadow: 0.2vw 0.2vh 0.8vw rgba(0, 0, 0, 0.1);
+}
+
+.bioCardContainer:hover {
+  box-shadow: 0 6px 6px rgba(0, 0, 0, 0.1);
+}
+
+.boldBio {
+  font-family: "N-regular";
+}

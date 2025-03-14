@@ -1,0 +1,63 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  background-color: #f8f5f3;
+}
+
+@font-face {
+  font-family: "J-Bold";
+  src: url("/Junicode/Junicode-Bold.ttf");
+}
+
+@font-face {
+  font-family: "J-Bold-Italic";
+  src: url("/Junicode/Junicode-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: "J-Italic";
+  src: url("/Junicode/Junicode-Italic.ttf");
+}
+
+@font-face {
+  font-family: "N-ExtraBold";
+  src: url("/Nohemi/Nohemi-Black.ttf");
+}
+
+@font-face {
+  font-family: "N-Bold";
+  src: url("/Nohemi/Nohemi-Bold.ttf");
+}
+
+@font-face {
+  font-family: "N-ExtraLight";
+  src: url("/Nohemi/Nohemi-ExtraLight.ttf");
+}
+
+@font-face {
+  font-family: "N-Light";
+  src: url("/Nohemi/Nohemi-Light.ttf");
+}
+
+@font-face {
+  font-family: "N-Medium";
+  src: url("/Nohemi/Nohemi-Medium.ttf");
+}
+
+@font-face {
+  font-family: "N-Regular";
+  src: url("/Nohemi/Nohemi-Regular.ttf");
+}
+
+@font-face {
+  font-family: "N-Thin";
+  src: url("/Nohemi/Nohemi-Thin.ttf");
+}
+
+a {
+  text-decoration: none;
+  color: inherit; /* Makes the link inherit the text color from its parent */
+}
